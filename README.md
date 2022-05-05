@@ -36,3 +36,11 @@
   </p>
 
 ----
+
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/hassanrefaat9"><img alt="Hassan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hassanrefaat9&custom_title=Hassan's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+
+<br/>
