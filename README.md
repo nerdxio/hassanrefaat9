@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
 
-- 💬 Ask me about **Android ,Java ,Kotlin,DSA,OOP,Clean code**
+- 💬 Ask me about **Android ,Java ,Kotlin ,DSA ,OOP ,Clean Code**
 
 - 📫 How to reach me **hassan.refaat.dev@gmail.com**
 
