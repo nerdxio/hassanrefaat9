@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hassan Refaat</h1>
 <h3 align="center">Undergraduate software engineer</h3>
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently working as **Android devolper**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
 
-- 💬 Ask me about **Android ,Java ,Kotlin ,DSA ,OOP ,Clean Code**
+- 💬 Ask me about **Android ,Java ,Kotlin ,DSA ,OOP ,Clean Code, problems solving**
 
 - 📫 How to reach me **hassan.refaat.dev@gmail.com**
 
